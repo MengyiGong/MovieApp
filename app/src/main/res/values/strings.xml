@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MoviesMaggie</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="language_settings_en">English</string>
+    <string name="language_settings_ch">Chinese</string>
+    <string name="language_settings_ko">Korean</string>
+    <string name="language_settings_es">Spanish</string>
+
+    <string name="double_click_exit">press one more time to exit</string>
+
+    <string name="loading">Loading...</string>
+    <string name="load_failed">Load Failed. Please Check Internet</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="companies">Production Companies</string>
+    <string name="actors_name_list">Actor List</string>
+    <string name="movie_app_title">Samsung Code Challenge</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

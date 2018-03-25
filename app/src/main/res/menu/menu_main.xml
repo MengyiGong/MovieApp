@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.maggie.moviesmaggie.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/language_en"
+        android:orderInCategory="90"
+        android:title="@string/language_settings_en"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/language_ch"
+        android:orderInCategory="90"
+        android:title="@string/language_settings_ch"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/language_ko"
+        android:orderInCategory="90"
+        android:title="@string/language_settings_ko"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/language_es"
+        android:orderInCategory="90"
+        android:title="@string/language_settings_es"
+        app:showAsAction="never" />
+</menu>
